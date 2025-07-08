@@ -1,4 +1,6 @@
 Image Generator with Style Transfer
+![Uploading image.png…]()
+
 ss This Streamlit app generates unique images based on a text prompt and an optional style image, using the kandinsky-community/kandinsky-2-2-decoder model from Hugging Face. The model combines text-guided generation with image-to-image transformations, allowing users to create art with custom styles and themes.
 
 Features
